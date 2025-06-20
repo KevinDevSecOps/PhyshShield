@@ -1,0 +1,3 @@
+git clone https://github.com/KevinDevSecOps/PhishShield.git
+cd PhishShield
+pip install -r requirements.txt
