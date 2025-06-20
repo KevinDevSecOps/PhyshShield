@@ -109,5 +109,5 @@ MIT License - Copyright © 2024 [KevinDevSecOps](https://github.com/KevinDevSecO
 
 ---
 
-Hecho con ❤️ y `Ctrl + C` / `Ctrl + V` por [KevinDevSecOps](https://github.com/KevinDevSecOps).  
+Hecho con ❤️ por [KevinDevSecOps](https://github.com/KevinDevSecOps).  
 ```
