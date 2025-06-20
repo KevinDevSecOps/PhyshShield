@@ -1,0 +1,11 @@
+ import unittest
+from src.phishshield import PhishShield
+
+class TestPhishShield(unittest.TestCase):
+    def test_homoglyph(self):
+        analyzer = PhishShield()
+        report = analyzer.analyze_url("https://paypål.com")
+        self.assertGreaterEqual(len(report["alerts"]), 1)
+
+if __name__ == "__main__":
+    unittest.main()
