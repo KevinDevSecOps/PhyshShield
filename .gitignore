@@ -1,0 +1,8 @@
+# Ignorar configuraciones sensibles
+config.ini
+.env
+
+# Entornos virtuales
+venv/
+__pycache__/
+*.pyc
