@@ -73,19 +73,7 @@ PhishShield/
 ├── tests/                   # Pruebas unitarias
 ├── config.ini.example       # Plantilla de configuración
 └── requirements.txt         # Dependencias
-```
-
----
-
-## 📸 **Demo**  
-### Interfaz Web  
-![Demo Web](assets/web_demo.gif)  
-
-### Bot de Telegram  
-![Demo Bot](assets/bot_demo.gif)  
-
-*(Nota: Añade tus propios GIFs grabados con [ScreenToGif](https://www.screentogif.com/))*  
-
+`` 
 ---
 
 ## 🤝 **Contribuciones**  
