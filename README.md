@@ -103,6 +103,9 @@ MIT License - Copyright © 2024 [KevinDevSecOps](https://github.com/KevinDevSecO
 
 ---
 
+## 🔑 Obtención de APIs  
+- [VirusTotal](https://www.virustotal.com/gui/join-us): Registro gratuito (500 peticiones/día).  
+- [BotFather](https://t.me/BotFather): Crea un bot y copia el token.
 ## 🔗 **Enlaces Útiles**  
 - [Documentación de VirusTotal API](https://developers.virustotal.com/reference)  
 - [Guía de Bots en Telegram](https://core.telegram.org/bots)  
