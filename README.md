@@ -131,7 +131,7 @@ Queda prohibido su uso para actividades ilegales.
 ## 🌍 Hecho con Pasión por la Comunidad Hispana
 
 [![KevinDevSecOps](https://img.shields.io/badge/🚀-Sígueme_en_Twitter-blue)](https://twitter.com/KevinDevSecOps)  
-📌 **Créditos**: Equipo de DevSecOps LATAM - 2024  
+📌 **Créditos**: Equipo de DevSecOps  - 2024  
 
 [![Donar](https://img.shields.io/badge/❤️_Apoya_el_Proyecto-FF5733)](https://paypal.me/physhshield)
 
