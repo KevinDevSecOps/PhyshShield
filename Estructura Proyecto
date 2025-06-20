@@ -1,0 +1,23 @@
+PhishShield/
+├── src/
+│   ├── phishshield.py          # Lógica principal
+│   ├── api/                    # Integraciones con APIs
+│   │   ├── virustotal.py
+│   │   └── google_safe_browsing.py
+│   ├── utils/                  # Herramientas auxiliares
+│   │   ├── domain_analysis.py
+│   │   └── screenshot.py       # Capturas de webs (opcional)
+├── data/
+│   ├── blacklists/             # Listas de dominios maliciosos
+│   │   ├── phishing_domains.txt
+│   │   └── homoglyphs.txt
+│   └── models/                # Modelos ML (opcional)
+├── tests/
+│   ├── test_url_analysis.py
+│   └── test_api_integrations.py
+├── docs/
+│   ├── API_REFERENCE.md
+│   └── EXAMPLES.md
+├── requirements.txt
+├── config.ini                 # Claves API
+└── README.md
